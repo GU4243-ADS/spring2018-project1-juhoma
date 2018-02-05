@@ -1,8 +1,6 @@
 # Spring 2018
 # Project 1: Spooky Data Analysis
 
-----
-
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
@@ -14,13 +12,10 @@ Term: Spring 2018
 
 ### Summary
 
-1. Stylistically, HPL generally uses the longest sentences among three, both in terms of the number of characters and the number of words, and EAP the shortest among three. 
-
-2. In the use of vocabulary, EAP uses longer words, compared to the other two, although the difference is minor. MWS dominantly uses female indicators and pronouns in her writing, compared to HPL who rarely uses them in his. The difference between HPL and EAP is also significant.
-
-3. MWS has the most characteristic use of vocabulary of all three, using lots of names and positive words like `life`, `love`, and `heart`. HPL and AEP's frequently used words (`folk`, `bearded`, `brown`, or `attic` vs. `monsieur` or `madame`) also show the clear difference between two writer's preferred settings in their stories. This result is consistent in the analysis of bigrams. 
-
-4. MWS's use of lots of positive words create a positive sentiment in her writing, clearly distinguishing her from the other two. HPL's sentiment is the most negative among three, with relatively little use of positive words in his writing. EAP's sentiment is more neutral, and we can further see some differences in how each author's sentiment is manifested.
++ Stylistically, HPL generally uses the longest sentences among three, both in terms of the number of characters and the number of words, and EAP the shortest among three. 
++ In the use of vocabulary, EAP uses longer words, compared to the other two, although the difference is minor. MWS dominantly uses female indicators and pronouns in her writing, compared to HPL who rarely uses them in his. The difference between HPL and EAP is also significant.
++ MWS has the most characteristic use of vocabulary of all three, using lots of names and positive words like `life`, `love`, and `heart`. HPL and AEP's frequently used words (`folk`, `bearded`, `brown`, or `attic` vs. `monsieur` or `madame`) also show the clear difference between two writer's preferred settings in their stories. This result is consistent in the analysis of bigrams. 
++ MWS's use of lots of positive words create a positive sentiment in her writing, clearly distinguishing her from the other two. HPL's sentiment is the most negative among three, with relatively little use of positive words in his writing. EAP's sentiment is more neutral, and we can further see some differences in how each author's sentiment is manifested.
 
 ### Length of Sentences
 
@@ -76,7 +71,7 @@ How words appear together can also be an important indicator for the author's id
 
 Here, we can also see EAP's characteristic settings from words like `main compartment`, `chess player`, or `tea pot`. HPL's more natural settings, as previously indicated before, can also be seen from words such as `tempest mountain` or `night wind`.
 
-## Sentiment Analysis
+### Sentiment Analysis
 
 We can analyze sentiments of a sentence by looking at the words and its positive/negative sentiments in it. Here, we apply NRC sentiment lexicon which associates words with eight basic emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust) and two sentiments (positive and negative).
 
